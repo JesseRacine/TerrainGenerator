@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaFx_Terrain_Gen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFx_Terrain_Gen_jar</output-path>
+    <root id="archive" name="JavaFx_Terrain_Gen.jar">
+      <element id="module-output" name="JavaFx_Terrain_Gen" />
+    </root>
+  </artifact>
+</component>
